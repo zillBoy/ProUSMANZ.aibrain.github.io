@@ -1,0 +1,11 @@
+.Tilt {
+    background:linear-gradient(to right, #FF5EDF , #04C8DE);
+}
+
+.brainImage {
+    padding: 3px;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
